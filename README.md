@@ -1,4 +1,10 @@
-> これは [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) の日本語訳です。原著のライセンス (AGPL-3.0) に従い、この翻訳も AGPL-3.0 です。原文から翻訳(変更)しています。講義スライド(PDF)は含みません。
+> **これは日本語訳です。**
+>
+> - 原著: [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)(原著者: 0xZ0F)
+> - ライセンス: AGPL-3.0 — 翻訳も同じライセンスです([ライセンス全文](License.md))。原文から翻訳(変更)しています
+> - 訳した範囲: 講座の本文(Markdown 版)
+> - 訳していないもの: PDF 版と講義用のファイルは含みません(PDF 版は Markdown 版と同じ内容です)
+> - 他の日本語訳: [一覧](https://github.com/orgs/0xFF-MinusOne/repositories?q=-ja)
 
 # リバースエンジニアリング講座
 
