@@ -1,30 +1,30 @@
-# FAQ
+# FAQ(よくある質問)
 
-**Q: How can I support you?**  
-**A:** Share the course around! You could also consider [contributing](Contributing.md)!
+**Q: どうすればあなたを支援できますか?**  
+**A:** コースを広めてください! [貢献](Contributing.md)することも検討してみてください!
 
-**Q: When will the course be updated?**
-**A:** Whenever I find something interesting to share!
+**Q: コースはいつ更新されますか?**
+**A:** 共有する価値のある面白いものを見つけたときです!
 
-**Q: Why are the courses written in Markdown (.md)?**
-**A:** Because it's easy to format things that look good. When I get a chance, I'll provide PDF versions as well. Markdown files are best for viewing the course on GitHub and the PDFs are best if you decide to download the course to your computer. Markdown is also easy to read both when editing the text and viewing the product.
+**Q: なぜコースは Markdown(.md)で書かれているのですか?**
+**A:** 見栄えの良い書式を簡単に作れるからです。機会があれば PDF 版も提供する予定です。Markdown ファイルは GitHub でコースを閲覧するのに最適で、PDF はコースをコンピュータにダウンロードする場合に最適です。また、Markdown は文章の編集中も完成形の閲覧時も読みやすいという利点があります。
 
-**Q: Can I download the course?**  
-**A:** Yes, for personal use only. For more information, see the [license](License.md).
+**Q: コースをダウンロードできますか?**  
+**A:** はい、ただし個人使用に限ります。詳しくは[ライセンス](License.md)を参照してください。
 
-**Q: Can I redistribute the course?**  
-**A:** Read the [license](License.md).
+**Q: コースを再配布できますか?**  
+**A:** [ライセンス](License.md)を読んでください。
 
-**Q: Can I use the course for my own teaching?**  
-**A:** Read the [license](License.md).
+**Q: コースを自分の教育に使えますか?**  
+**A:** [ライセンス](License.md)を読んでください。
 
-**Q: Nothing is free, so why is this course?**  
-**A:** I couldn't be bothered to setup a payment system. With that said, the more stars the repo gets the more leverage I have to ask for a higher salary so please share and star :)
+**Q: タダのものはないはずなのに、なぜこのコースは無料なのですか?**  
+**A:** 支払いシステムを設定するのが面倒だったからです。とはいえ、リポジトリのスターが増えるほど、より高い給料を要求する交渉材料が増えるので、ぜひ共有してスターを付けてください :)
 
-**Q: Is the content in this course legal?**  
-**A:** Yes. Read the [license](License.md).
+**Q: このコースの内容は合法ですか?**  
+**A:** はい。[ライセンス](License.md)を読んでください。
 
-**Q: How do I stay up-to-date?**
-**A:** [Twitter (@0xZ0F)](https://twitter.com/0xZ0F) and [Discord (https://discord.gg/73tkPGv)](https://discord.gg/73tkPGv)
+**Q: 最新情報を知るにはどうすればよいですか?**
+**A:** [Twitter (@0xZ0F)](https://twitter.com/0xZ0F) と [Discord (https://discord.gg/73tkPGv)](https://discord.gg/73tkPGv)
 
-**If you have any other questions, contact me on Twitter [@0xZ0F](https://twitter.com/0xZ0F) or [Discord (https://discord.gg/73tkPGv)](https://discord.gg/73tkPGv)**.
+**ほかに質問がある場合は、Twitter [@0xZ0F](https://twitter.com/0xZ0F) か [Discord (https://discord.gg/73tkPGv)](https://discord.gg/73tkPGv) で私に連絡してください**。

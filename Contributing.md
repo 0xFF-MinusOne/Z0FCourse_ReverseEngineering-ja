@@ -1,34 +1,34 @@
-# Contributing
+# Contributing(貢献について)
 
-Thank you to anyone who contributes to this course in any way. The community allows this course to be much better than one man alone could.
+このコースに何らかの形で貢献してくださるすべての方に感謝します。コミュニティのおかげで、このコースは一人で作るよりもはるかに良いものになっています。
 
-## Credit
+## Credit(クレジット)
 
-I try to always give credit to those who help contribute to the course. If you're making a pull request, you can add yourself to [Credit.md](Credit.md). If you don't, I will, unless you don't want to be listed. You can list your real name, social media account, or anything else as long as I approve of it.
+コースに貢献してくれた方には、常にクレジットを記載するようにしています。プルリクエストを送る場合は、自分で [Credit.md](Credit.md) に名前を追加して構いません。追加しなかった場合は、掲載を希望しない旨の連絡がない限り、私が追加します。本名、SNS のアカウントなど、私が了承できるものであれば何を記載しても構いません。
 
-## How To Contribute
+## How To Contribute(貢献の方法)
 
-Here are some ways you can let me know about, or submit, your contribution.
+貢献内容を私に知らせる、または提出する方法には次のようなものがあります。
 
-* Make a pull request.
-* Open an issue.
-* Contact me on Discord.
-  * Username: @z0f
-  * Server: [https://discord.gg/73tkPGv](https://discord.gg/73tkPGv)
+* プルリクエストを送る。
+* issue を立てる。
+* Discord で私に連絡する。
+  * ユーザー名: @z0f
+  * サーバー: [https://discord.gg/73tkPGv](https://discord.gg/73tkPGv)
 
-## Types Of Contribution
+## Types Of Contribution(貢献の種類)
 
-Any contributions are accepted as long as they improve the course in some way.
+コースを何らかの形で改善するものであれば、どんな貢献でも受け付けます。
 
-> If you have any questions about contributing (or anything else) let me know. Nothing is too ambitious or stupid.
+> 貢献について(あるいはそれ以外でも)質問があれば、遠慮なく知らせてください。大きすぎる提案や愚かな提案というものはありません。
 
-* Requests for new topics or information to be added to the course are accepted. Submit them via [Twitter](https://twitter.com/0xZ0F) or by opening an issue.
-* There are plenty of spelling and link mistakes. Have fun.
-* If you want to add a whole chapter or lesson, go for it.
-* Feel free to contribute to WIP content. However, if you make a pull request be warned that it may be closed without being merged. If this is done it's because I will weave your work into my version. With that said, I will of course give you explicit credit in the lesson (and [Credit.md](Credit.md)).
+* 新しいトピックや情報をコースに追加してほしいというリクエストを受け付けます。[Twitter](https://twitter.com/0xZ0F) か issue で送ってください。
+* スペルミスやリンク切れがたくさんあります。ぜひ直してみてください。
+* 章やレッスンをまるごと追加したい場合も、ぜひどうぞ。
+* WIP(作業中)の内容への貢献も歓迎します。ただし、プルリクエストを送る場合は、マージされずにクローズされる可能性があることに注意してください。その場合は、あなたの成果を私のバージョンに組み込むためです。そうした場合でも、もちろんレッスン内と [Credit.md](Credit.md) に、はっきりとあなたのクレジットを記載します。
 
-## Standards
+## Standards(基準)
 
-* Be sure everything you contribute is accurate. I will fact check everything myself as well.
-* The language in the course needs to be professional (no vulgar language or slang).
-* I don't expect you to dedicate egregious amounts of time contributing. For example, if there is a broken link in every lesson instead of fixing every link yourself, let me know and I'll fix them.
+* 貢献する内容がすべて正確であることを確認してください。私自身もすべてのファクトチェックを行います。
+* コース内の言葉づかいは専門的であること(下品な言葉やスラングは不可)。
+* 膨大な時間を費やすことは求めていません。たとえば、すべてのレッスンにリンク切れがある場合は、自分ですべてのリンクを直すのではなく、私に知らせてください。私が修正します。

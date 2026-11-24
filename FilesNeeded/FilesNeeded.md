@@ -1,23 +1,23 @@
-# Files Needed
-These are the files you will need for this course. Each folder contains the files needed for the chapter it's named after. For example, the Chapter 6 - DLL folder contains the files needed for the Chapter 6 - DLL chapter.
+# Files Needed(必要なファイル)
+このコースで必要になるファイルです。各フォルダには、その名前の章で必要なファイルが入っています。たとえば、Chapter 6 - DLL フォルダには、Chapter 6 - DLL の章で必要なファイルが入っています。
 
-## All files can be downloaded as a .ZIP archive in the releases section.  
+## すべてのファイルは、リリースのページから .ZIP アーカイブとしてダウンロードできます。  
 https://github.com/0xZ0F/Z0FCourse_ReverseEngineering/releases
 
 * ## Chapter 6 - DLL
-  * Debug Files - pdb and obj files. Helps with debugging.
-  * Source Code - Source code of the DLL and a program that uses the DLL.
-  * DLL.dll - DLL that will be reverse engineered.
-  * RunDLL.exe - Program that uses the DLL.
-  * DLLLib.exe - Program that uses the DLL via .lib and .h files.
-  * README.txt - Contains the information you just read.
+  * Debug Files - pdb ファイルと obj ファイル。デバッグに役立ちます。
+  * Source Code - DLL と、その DLL を使うプログラムのソースコード。
+  * DLL.dll - リバースエンジニアリングの対象となる DLL。
+  * RunDLL.exe - DLL を使うプログラム。
+  * DLLLib.exe - .lib ファイルと .h ファイルを介して DLL を使うプログラム。
+  * README.txt - 今あなたが読んだ内容が書かれています。
 
-**For more information see the README.txt file.**
+**詳しくは README.txt ファイルを参照してください。**
 
 * ## Chapter WIP - Malware
-  * Debug Files - pdb and obj files. Helps with debugging.
-  * Source Code - Source code of the malware and its dropper.
-  * **THE FOLLOWING ARE TO BE USED AT YOUR OWN RISK. I AM NOT LIABLE FOR ANYTHING DONE:**
-    * Dropper.Z0F - Program that acts as a dropper for the malware.
-    * Malware.Z0F - Malware that wil be reverse engineered.
-  * README.txt - Contains the information you just read.
+  * Debug Files - pdb ファイルと obj ファイル。デバッグに役立ちます。
+  * Source Code - マルウェアとそのドロッパーのソースコード。
+  * **以下は自己責任で使用してください。行われたいかなる行為についても私は責任を負いません。**
+    * Dropper.Z0F - マルウェアのドロッパーとして動作するプログラム。
+    * Malware.Z0F - リバースエンジニアリングの対象となるマルウェア。
+  * README.txt - 今あなたが読んだ内容が書かれています。

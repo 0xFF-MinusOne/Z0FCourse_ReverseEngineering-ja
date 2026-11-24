@@ -1,51 +1,53 @@
-# Reverse Engineering Course
+> これは [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) の日本語訳です。原著のライセンス (AGPL-3.0) に従い、この翻訳も AGPL-3.0 です。原文から翻訳(変更)しています。講義スライド(PDF)は含みません。
 
-This course aims to take an individual from beginner to intermediate (advanced is really only achieved through experience) in reverse engineering. While this course focuses on Windows 64-bit, the technical knowledge applies to 32-bit Windows and the theory to any OS.
+# リバースエンジニアリング講座
 
-> The choice has been made for 64-bit Windows since it's modern and the most common OS and architecture. In addition, we only have to deal with one calling convention.
+この講座は、リバースエンジニアリングの初心者を中級者まで引き上げることを目指しています(上級者になれるのは、実際には経験を積んだ場合だけです)。この講座は 64 ビット Windows を中心に扱いますが、技術的な知識は 32 ビット Windows にも当てはまり、理論はどの OS にも通用します。
 
-For a more interactive experience with the initial portion of the course (chapters 1 through 6), try out the course on [TryHackMe](https://tryhackme.com/):
+> 64 ビット Windows を選んだのは、最新で、最も一般的な OS とアーキテクチャだからです。加えて、扱う呼び出し規約(calling convention)が 1 つだけで済みます。
+
+講座の最初の部分(第 1 章から第 6 章)をよりインタラクティブに学びたい場合は、[TryHackMe](https://tryhackme.com/) の講座を試してみてください。
 
 1. [Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
 2. [Windows Reverse Engineering Intro](https://tryhackme.com/room/windowsreversingintro)
 
-## Advanced Courses
+## 上級コース
 
-If you want to explore more advanced Windows internals and exploit development, I offer more courses on my website.
+Windows の内部構造やエクスプロイト開発をさらに深く学びたい場合は、私のウェブサイトで上級コースを提供しています。
 
 * <https://debugoff.com/>
 
-## PDF ZIP Password
+## PDF の ZIP パスワード
 
-There are some PDFs created and provided in ZIP files. They may not be up to date, so it's recommended to follow the normal markdown version of the course. The PDFs were provided due to a high number of requests for them.
+ZIP ファイルで提供している PDF がいくつかあります。最新ではない可能性があるため、通常の Markdown 版の講座に沿って進めることをお勧めします。PDF は要望が非常に多かったため提供しました。
 
-The password for the ZIP files is "reverse" (without the quotes).
+ZIP ファイルのパスワードは "reverse" です(引用符は含みません)。
 
-## [Before You Begin](@BeforeYouBegin.md)
+## [はじめに](@BeforeYouBegin.md)
 
-* Please take a moment to read [BeforeYouBegin](@BeforeYouBegin.md).
-* **Join the Discord server: [https://discord.gg/73tkPGv](https://discord.gg/73tkPGv)**
-  * Use the Discord server to ask for help and stay updated with the course!
+* [BeforeYouBegin](@BeforeYouBegin.md) をぜひ読んでください。
+* **Discord サーバーに参加してください: [https://discord.gg/73tkPGv](https://discord.gg/73tkPGv)**
+  * Discord サーバーでは、質問したり、講座の最新情報を入手したりできます。
 
-## What We'll Do/Learn
+## 学ぶ内容
 
-This course is going to teach anyone how to reverse engineer x64 Windows. We will start by covering some basics of binaries, then reverse some small samples, reverse a DLL and implement it into our own program, reverse some malware, then look at some realistic situations.
+この講座では、誰でも x64 Windows のリバースエンジニアリングができるようになります。まずバイナリの基礎を扱い、次に小さなサンプルをリバースし、DLL をリバースして自分のプログラムに組み込み、マルウェアをリバースして、最後に現実的な状況を見ていきます。
 
-The goal is not to teach you how to smash your head against assembly. Rather, I want to teach how to use tools to enhance your skills and capabilities. For example, we will cover how to log function calls for easier analysis using a debugger or writing our own code for more control.
+目標は、アセンブリに力ずくで立ち向かう方法を教えることではありません。それよりも、ツールを使って自分のスキルや能力を高める方法を教えたいと考えています。たとえば、デバッガーを使ったり自分でコードを書いたりして、より細かく制御しながら、関数呼び出しをログに記録して分析しやすくする方法を扱います。
 
-### [Table Of Contents](TableOfContents.md)
+### [目次](TableOfContents.md)
 
-## Why I Made This Course
+## この講座を作った理由
 
-Reversing is made so much harder because of the lack of resources to learn it. Most content is outdated, overpriced, hard to follow, or low quality. Reversing is already considered by many to be a difficult field to get into. Something being difficult isn't an issue, but when it gets needlessly difficult there is an issue. After reading multiple books, countless blog posts, extensive documentation, following multiple YouTube "tutorials", and much more, I feel like it's time for someone to make a dedicated course. I don't think it should be that hard to learn one topic. I certainly don't want people to have to go through the mess I went through, so I decided to make this course. I love this field and I wanted to give back to the community. Here's my gift to you and the rest of the community. Hopefully there are a few people out there that this course can help.
+リバースエンジニアリングは、学ぶための資料が少ないせいで、ずっと難しくなっています。ほとんどの資料は古いか、高すぎるか、分かりにくいか、質が低いものです。リバースエンジニアリングは、もともと入り込むのが難しい分野だと多くの人に考えられています。難しいこと自体は問題ではありませんが、必要以上に難しくなっているのは問題です。複数の本を読み、数え切れないほどのブログ記事や膨大なドキュメントに目を通し、複数の YouTube の「チュートリアル」を見るなど、いろいろ試した末に、そろそろ誰かが専用の講座を作るべき時だと感じました。1 つのテーマを学ぶのが、そんなに難しくあるべきではないと思います。私が経験したような混乱を、ほかの人に味わってほしくないので、この講座を作ることにしました。私はこの分野が大好きで、コミュニティに恩返しがしたかったのです。これは、あなたとコミュニティ全体への私からの贈り物です。この講座が役に立つ人が少しでもいればうれしいです。
 
 <a name="contact"></a>
 
-## Contact/Stay Updated
+## 連絡先・最新情報
 
-Discord Server: [https://discord.gg/73tkPGv](https://discord.gg/73tkPGv)  
-Follow me on Twitter [@0xZ0F](https://twitter.com/0xZ0F)!  
+Discord サーバー: [https://discord.gg/73tkPGv](https://discord.gg/73tkPGv)  
+Twitter で [@0xZ0F](https://twitter.com/0xZ0F) をフォローしてください!  
 
-Please give me any and all **honest** feedback you have. Don't worry about hurting my feelings, I want to make this course as good as I can. I can't do that alone, that's why your feedback is so important.
+どんなことでも、**正直な**フィードバックをお寄せください。気持ちを傷つけるかどうかは気にしないでください。この講座をできる限り良いものにしたいのです。それは私一人ではできないので、皆さんのフィードバックがとても大切です。
 
-The best way to stay up-to-date is to support me on Patreon which will give you access to the Patreon-only feed. The feed includes the latest updates, upcoming updates, and more.
+最新情報を入手する最善の方法は、Patreon で私を支援することです。Patreon 限定のフィードにアクセスできるようになります。フィードには、最新の更新、今後の更新予定などが含まれます。

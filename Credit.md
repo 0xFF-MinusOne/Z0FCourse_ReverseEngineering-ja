@@ -1,12 +1,12 @@
-# Credit
+# Credit(クレジット)
 
-These are people that have helped improve this course or support me via [Patreon](https://www.patreon.com/z0f). Note that I do provide links to the accounts of these people. The safety of these links is NOT guaranteed. CLICK AT YOUR OWN RISK. If you don't wish to have your name listed, want a different account linked/credited, or anything else let me know. Also, there is no particular order.
+このコースの改善に協力してくれた方や、[Patreon](https://www.patreon.com/z0f) で私を支援してくれた方々です。これらの方々のアカウントへのリンクを掲載していますが、リンクの安全性は保証されません。クリックは自己責任でお願いします。名前の掲載を希望しない場合や、別のアカウントをリンク・掲載してほしい場合、その他のご要望があれば知らせてください。また、掲載順に特別な意味はありません。
 
-## Patreon Supporters
+## Patreon Supporters(Patreon の支援者)
 
-I no longer have a Patreon and I'm not sure if I'll open it back up. With that said, for those who did contribute I'm very grateful so here are your names to be forever remembered.
+現在は Patreon を閉じており、再開するかどうかも分かりません。それでも、支援してくださった方々にはとても感謝しています。ここにお名前を記して、永く記憶にとどめます。
 
-> Last names are not shown for privacy reasons.
+> プライバシー保護のため、姓は表示していません。
 
 * Jorge H.
 * Tim S.

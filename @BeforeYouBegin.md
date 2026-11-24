@@ -1,13 +1,13 @@
-# Before You Begin
+# はじめに
 
-For support, join the Discord server: [https://discord.gg/73tkPGv](https://discord.gg/73tkPGv)
+サポートが必要な場合は、Discord サーバーに参加してください: [https://discord.gg/73tkPGv](https://discord.gg/73tkPGv)
 
-Please read [README.md](README.md) if you haven't already.
+まだお読みでない場合は、[README.md](README.md) を読んでください。
 
-If you have any questions or comments, contact me on Twitter [@0xZ0F](https://twitter.com/0xZ0F) or Discord. I'm not always on Twitter, so forgive me if I don't respond immediately.
+質問やコメントがあれば、Twitter [@0xZ0F](https://twitter.com/0xZ0F) か Discord で連絡してください。Twitter には常にいるわけではないので、すぐに返信できなくてもご容赦ください。
 
-## Course Content
+## 講座の内容
 
-This course is meant to teach you about reverse engineering. We'll be focusing on 64 bit Windows. A majority of what you learn here will either carry over or help you with other architectures. I will briefly cover other architectures at the end as well.
+この講座では、リバースエンジニアリングについて学びます。64 ビット Windows を中心に扱います。ここで学ぶことの大半は、ほかのアーキテクチャにもそのまま通用するか、役に立ちます。最後に、ほかのアーキテクチャについても簡単に取り上げます。
 
-Everything else you need to know is covered in [Chapter 1 - Introduction](Chapter%201%20-%20Introduction). Have fun!
+そのほかに知っておくべきことは、すべて [Chapter 1 - Introduction](Chapter%201%20-%20Introduction) で説明しています。楽しんでください!

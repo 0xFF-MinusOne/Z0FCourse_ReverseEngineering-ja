@@ -1,4 +1,4 @@
-# Table Of Contents
+# Table Of Contents(目次)
 
 * #### [License](License.md)
 
@@ -83,14 +83,14 @@
   * [6.09 ImplementingPlayer](Chapter%206%20-%20DLL/6.09%20ImplementingPlayer.md)
   * [6.10 FinalNotes](Chapter%206%20-%20DLL/6.10%20FinalNotes.md)
 
-* ### [Chapter 7 - Windows](Chapter%207%20-%20Windows) - WIP
+* ### [Chapter 7 - Windows](Chapter%207%20-%20Windows) - WIP(作業中)
 
   * [7.0 Windows](Chapter%207%20-%20Windows/7.0%20Windows.md)
   * [7.1 Virtual Memory](Chapter%207%20-%20Windows/7.1%20VirtualMemory.md)
   * [7.2 Privileges](Chapter%207%20-%20Windows/7.2%20Privileges.md)
-  * [7.3 Architecture](Chapter%207%20-%20Windows/7.3%20Architecture.md) - WIP
+  * [7.3 Architecture](Chapter%207%20-%20Windows/7.3%20Architecture.md) - WIP(作業中)
 
-* ### [Chapter 8 - Generic Table](Chapter%208%20-%20Generic%20Table) - WIP
+* ### [Chapter 8 - Generic Table](Chapter%208%20-%20Generic%20Table) - WIP(作業中)
 
   * [8.00 Generic Table](Chapter%208%20-%20Generic%20Table/8.00%20GenericTable.md)
   * [8.01 InitializeTable](Chapter%208%20-%20Generic%20Table/8.01%20InitializeTable.md)

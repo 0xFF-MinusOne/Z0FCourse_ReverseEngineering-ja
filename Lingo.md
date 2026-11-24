@@ -1,23 +1,23 @@
-# Lingo
+# Lingo(用語集)
 
-## Course Organization
+## Course Organization(コースの構成)
 
-* Each folder (Ex. Chapter 1 - Introduction) is a **chapter**. Each piece of content (Ex. 1.1 HowTo.md) is a lesson/section.
-* **WIP** - Work In Progress. Anything marked WIP is not final and should be ignored until it is finished.
-* **TODO** - Anything marked TODO is yet to be done. It is far from ready but is planned.
+* 各フォルダ(例: Chapter 1 - Introduction)が**章**です。各コンテンツ(例: 1.1 HowTo.md)がレッスン/セクションです。
+* **WIP** - Work In Progress(作業中)。WIP と記されたものは未完成なので、完成するまでは無視してください。
+* **TODO** - TODO と記されたものは未着手です。完成には程遠いですが、予定はされています。
 
-### Bits and Bytes
+### Bits and Bytes(ビットとバイト)
 
-* **x64** is 64 bit.
-* **x32** and **x86** are 32 bit.
-* **MB** is megabyte, **GB** is gigabyte, etc.
-* For **number system prefixes and suffixes**, see the prefixes lesson in [2.1 NumberSystems](Chapter%202%20-%20BinaryBasics/2.1%20NumberSystems.md).
+* **x64** は 64 ビットです。
+* **x32** と **x86** は 32 ビットです。
+* **MB** はメガバイト、**GB** はギガバイトなどです。
+* **数の単位の接頭辞・接尾辞**については、[2.1 NumberSystems](Chapter%202%20-%20BinaryBasics/2.1%20NumberSystems.md) の接頭辞のレッスンを参照してください。
 
-## Programming Language Related  
+## Programming Language Related(プログラミング言語関連)  
 
-* **JRE** - Java Runtime Environment
-* **JVM** - Java Virtual Machine
-* **CLR** - Common Language Runtime (Used by .NET).
-* **JIT** - Just In Time Compiler
-* **MSIL** - Microsoft Intermediate Language
-* **IL** - Intermediate Language.
+* **JRE** - Java Runtime Environment(Java 実行環境)
+* **JVM** - Java Virtual Machine(Java 仮想マシン)
+* **CLR** - Common Language Runtime(共通言語ランタイム。.NET で使われる)
+* **JIT** - Just In Time Compiler(ジャストインタイムコンパイラ)
+* **MSIL** - Microsoft Intermediate Language(Microsoft 中間言語)
+* **IL** - Intermediate Language(中間言語)
