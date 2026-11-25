@@ -16,19 +16,13 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      toggle:
-        icon: material/weather-night
-        name: ダークモードに切り替え
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: ライトモードに切り替え
   features:
     - navigation.top
+    - navigation.footer
     - navigation.sections
     - toc.follow
-    - content.code.copy
 
 plugins:
   - search:
@@ -40,6 +34,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
+      pygments_lang_class: true
   - attr_list
   - md_in_html
   - tables
@@ -121,3 +116,10 @@ nav:
   - 貢献方法: Contributing.md
   - クレジット: Credit.md
   - ライセンス(AGPL-3.0): License.md
+
+extra_css:
+  - assets/ja-docs.css
+  - assets/mkdocs.css
+
+extra_javascript:
+  - assets/ja-docs.js
