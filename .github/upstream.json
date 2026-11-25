@@ -1,0 +1,28 @@
+{
+  "upstreams": [
+    {
+      "repo": "0xZ0F/Z0FCourse_ReverseEngineering",
+      "branch": "master",
+      "paths": [
+        "@BeforeYouBegin.md",
+        "Chapter 1 - Introduction",
+        "Chapter 2 - BinaryBasics",
+        "Chapter 3 - Assembly",
+        "Chapter 4 - Tools",
+        "Chapter 5 - BasicReversing",
+        "Chapter 6 - DLL",
+        "Chapter 7 - Windows",
+        "Chapter 8 - Generic Table",
+        "Contributing.md",
+        "Credit.md",
+        "FAQ.md",
+        "FilesNeeded",
+        "License.md",
+        "Lingo.md",
+        "README.md",
+        "TableOfContents.md"
+      ],
+      "base": "ee4b07095d6f81ba5e5c7e0b70f7cb39e3af83b1"
+    }
+  ]
+}
